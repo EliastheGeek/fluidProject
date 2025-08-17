@@ -37,6 +37,8 @@ The final system will be a real-time interactive fluid simulation application wi
 
 Figure 1 Final result with colored “dye” (Harris, 2004)
 
+## Process Highlights
+See video folder
 ## References
 Harris, M. J. (2004). Chapter 38. Fast Fluid Dynamics Simulation on the GPU. Retrieved from Nvidia Developer: https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu
 
