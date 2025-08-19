@@ -38,6 +38,10 @@ The final system will be a real-time interactive fluid simulation application wi
 Figure 1 Final result with colored “dye” (Harris, 2004)
 
 ## Process highlights
+![Skärmklipp](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/cc16b725-b01d-4852-9743-9050e4b23cee)
+
+22nd May 2025
+
 ![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/07d03c03-f1e3-4274-aba1-d32c29eaec1f) ![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/cc36122f-80e8-47d7-aff2-a000213cc9fe)
 
 12th June 2025
