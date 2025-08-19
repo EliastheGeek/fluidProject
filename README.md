@@ -37,8 +37,13 @@ The final system will be a real-time interactive fluid simulation application wi
 
 Figure 1 Final result with colored “dye” (Harris, 2004)
 
-## Results
-See video folder
+## Process highlights
+![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/07d03c03-f1e3-4274-aba1-d32c29eaec1f) ![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/cc36122f-80e8-47d7-aff2-a000213cc9fe)
+12th June 2025
+
+![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/475b8879-b2c2-496e-95c0-6fb78b868998) ![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/b7c3ca7c-b6c8-4b75-834d-0565a3742983)
+16th August 2025
+
 ## References
 Harris, M. J. (2004). Chapter 38. Fast Fluid Dynamics Simulation on the GPU. Retrieved from Nvidia Developer: https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu
 
