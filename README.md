@@ -33,20 +33,22 @@ SDL2 will handle creating the window and drawing the visualization. It will also
 
 The final system will be a real-time interactive fluid simulation application with visual output. When the program is run, it will open an SDL2 window displaying a representation of the fluid (for example, a field of smoke or colored dye within a black background). The fluid will initially be still, but the user can interact to create interesting motion, In essence, the final program is like a sandbox tool where one can "paint" with fluids. From a technical perspective, behind the scenes each frame the application will call the CUDA kernels to update the fluid and then render the updated state via SDL. But from the user’s perspective, it’s a seamless interactive fluid simulation toy that is fascinating to watch and play with. By the end of the project, the system should be robust (running for extended periods without instability), and real-time (at least 30 FPS, ideally 60 FPS) for a reasonable grid size (to be determined by performance tests).
 
-![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/808e857a-edb7-4388-bc75-9729cbde3b2f)
+<img width="547" height="274" alt="808e857a-edb7-4388-bc75-9729cbde3b2f" src="https://github.com/user-attachments/assets/95772da2-4dd2-431b-893d-796e283b3d33" />
 
 Figure 1 Final result with colored “dye” (Harris, 2004)
 
 ## Process highlights
-![Skärmklipp](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/cc16b725-b01d-4852-9743-9050e4b23cee)
+![cc16b725-b01d-4852-9743-9050e4b23cee](https://github.com/user-attachments/assets/e005a3f2-b1eb-453b-8b7f-1d8478a2b989)
 
 22nd May 2025
 
-![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/07d03c03-f1e3-4274-aba1-d32c29eaec1f) ![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/cc36122f-80e8-47d7-aff2-a000213cc9fe)
+<img width="462" height="493" alt="07d03c03-f1e3-4274-aba1-d32c29eaec1f" src="https://github.com/user-attachments/assets/2b3bbab9-a07e-4aee-9c2b-6b0bc6c9f3b3" /> <img width="461" height="490" alt="cc36122f-80e8-47d7-aff2-a000213cc9fe" src="https://github.com/user-attachments/assets/838d63fa-a976-474b-9c9a-28f81c0469e1" />
+
 
 12th June 2025
 
-![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/475b8879-b2c2-496e-95c0-6fb78b868998) ![image](https://gits-15.sys.kth.se/eliasnys/fluidProject/assets/19526/b7c3ca7c-b6c8-4b75-834d-0565a3742983)
+<img width="306" height="326" alt="475b8879-b2c2-496e-95c0-6fb78b868998" src="https://github.com/user-attachments/assets/55ab904a-b112-41e5-99b2-54ab20c8629d" /> <img width="311" height="326" alt="b7c3ca7c-b6c8-4b75-834d-0565a3742983" src="https://github.com/user-attachments/assets/5904b8e0-867f-4718-941b-e10989db216b" />
+
 
 16th August 2025
 
